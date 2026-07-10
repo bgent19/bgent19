@@ -1,6 +1,6 @@
 # Brett Gentile
 
-**Computer Acience educator** - distributed systems, secure infrastructure, and now Azure.
+**Computer Science educator** - distributed systems, secure infrastructure, and now Azure.
 
 `M.S. Computer Science` &nbsp;·&nbsp; `Naval officer → industry (Nov 2026)`
 
