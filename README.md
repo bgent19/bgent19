@@ -1,4 +1,4 @@
-# Brett Gentile
+# Brett G
 
 **Computer Science educator** - distributed systems, secure infrastructure, and now Azure.
 
